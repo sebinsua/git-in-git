@@ -8,3 +8,6 @@
 [remote "origin"]
 	url = git@github.com:sebinsua/git-in-git.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
