@@ -3,3 +3,4 @@
 1d18184f58b19e6cb94e70a5ecdd42ebb1654d62 9dfc95bcce9be187cf42cab7f93bc5354c0e28f5 Seb Insua <me@sebinsua.com> 1560120961 +0100	commit: commit the README.md
 9dfc95bcce9be187cf42cab7f93bc5354c0e28f5 e29d8f7f6c091f179ffd797c5d02e730f8d354a5 Seb Insua <me@sebinsua.com> 1560121009 +0100	commit: commit the change which was made by git on adding the README.md
 e29d8f7f6c091f179ffd797c5d02e730f8d354a5 6a3cca524cfd5f30131ae8bf04f21b52071b30a9 Seb Insua <me@sebinsua.com> 1560121105 +0100	commit: remote add origin
+6a3cca524cfd5f30131ae8bf04f21b52071b30a9 07bfeb6c6a5826ae2d71156269f4237be05ae4f5 Seb Insua <me@sebinsua.com> 1560121252 +0100	commit: commit the remote add origin change
