@@ -1,1 +1,3 @@
 0000000000000000000000000000000000000000 22e229fa573f5e87831f3d5317970aab01b3601c Seb Insua <me@sebinsua.com> 1560120627 +0100	commit (initial): initialise empty repo
+22e229fa573f5e87831f3d5317970aab01b3601c 1d18184f58b19e6cb94e70a5ecdd42ebb1654d62 Seb Insua <me@sebinsua.com> 1560120940 +0100	commit: stage a README.md
+1d18184f58b19e6cb94e70a5ecdd42ebb1654d62 9dfc95bcce9be187cf42cab7f93bc5354c0e28f5 Seb Insua <me@sebinsua.com> 1560120961 +0100	commit: commit the README.md
