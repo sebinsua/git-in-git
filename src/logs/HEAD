@@ -6,3 +6,4 @@ e29d8f7f6c091f179ffd797c5d02e730f8d354a5 6a3cca524cfd5f30131ae8bf04f21b52071b30a
 6a3cca524cfd5f30131ae8bf04f21b52071b30a9 07bfeb6c6a5826ae2d71156269f4237be05ae4f5 Seb Insua <me@sebinsua.com> 1560121252 +0100	commit: commit the remote add origin change
 07bfeb6c6a5826ae2d71156269f4237be05ae4f5 07bfeb6c6a5826ae2d71156269f4237be05ae4f5 Seb Insua <me@sebinsua.com> 1560121425 +0100	checkout: moving from master to change-to-readme
 07bfeb6c6a5826ae2d71156269f4237be05ae4f5 51a5ab1ceddee034f790a884d8ee2b3fed49b4c2 Seb Insua <me@sebinsua.com> 1560121660 +0100	commit: update the README.md with an explanation of what we are looking at
+51a5ab1ceddee034f790a884d8ee2b3fed49b4c2 e505ba30530109112067a9a3988f4ecce33e36ea Seb Insua <me@sebinsua.com> 1560121726 +0100	commit: update src (aka .git) with the previous change
